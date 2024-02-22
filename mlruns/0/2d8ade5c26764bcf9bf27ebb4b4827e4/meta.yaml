@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d8ade5c26764bcf9bf27ebb4b4827e4/artifacts
+end_time: 1708625243977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d8ade5c26764bcf9bf27ebb4b4827e4
+run_name: colorful-fish-942
+run_uuid: 2d8ade5c26764bcf9bf27ebb4b4827e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625240302
+status: 3
+tags: []
+user_id: TANMOY PAUL

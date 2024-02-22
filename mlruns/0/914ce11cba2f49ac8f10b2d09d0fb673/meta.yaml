@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/914ce11cba2f49ac8f10b2d09d0fb673/artifacts
+end_time: 1708625261353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 914ce11cba2f49ac8f10b2d09d0fb673
+run_name: flawless-cow-451
+run_uuid: 914ce11cba2f49ac8f10b2d09d0fb673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625256378
+status: 3
+tags: []
+user_id: TANMOY PAUL

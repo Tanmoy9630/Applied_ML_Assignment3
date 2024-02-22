@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/848265d4c21f40e1956f72f66c749714/artifacts
+end_time: 1708625329001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 848265d4c21f40e1956f72f66c749714
+run_name: gifted-squirrel-658
+run_uuid: 848265d4c21f40e1956f72f66c749714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625315879
+status: 3
+tags: []
+user_id: TANMOY PAUL

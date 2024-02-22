@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b9847eea3ef4bcd92e48282c8d00798/artifacts
+end_time: 1708625582463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b9847eea3ef4bcd92e48282c8d00798
+run_name: exultant-snail-866
+run_uuid: 9b9847eea3ef4bcd92e48282c8d00798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625511056
+status: 3
+tags: []
+user_id: TANMOY PAUL

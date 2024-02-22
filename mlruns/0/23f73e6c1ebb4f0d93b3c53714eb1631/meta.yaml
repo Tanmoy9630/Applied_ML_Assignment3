@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/23f73e6c1ebb4f0d93b3c53714eb1631/artifacts
+end_time: 1708625251696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23f73e6c1ebb4f0d93b3c53714eb1631
+run_name: grandiose-shrimp-161
+run_uuid: 23f73e6c1ebb4f0d93b3c53714eb1631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625248013
+status: 3
+tags: []
+user_id: TANMOY PAUL

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a3515c1d62ff4c33a8f4cbd4dd786d16/artifacts
+end_time: 1708625240273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3515c1d62ff4c33a8f4cbd4dd786d16
+run_name: rogue-hen-561
+run_uuid: a3515c1d62ff4c33a8f4cbd4dd786d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625236555
+status: 3
+tags: []
+user_id: TANMOY PAUL

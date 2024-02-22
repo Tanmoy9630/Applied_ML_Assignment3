@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4e87bfed9acb479fba7446306e0d8a14/artifacts
+end_time: 1708625074256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e87bfed9acb479fba7446306e0d8a14
+run_name: melodic-panda-993
+run_uuid: 4e87bfed9acb479fba7446306e0d8a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625070734
+status: 3
+tags: []
+user_id: TANMOY PAUL

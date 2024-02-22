@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e2a78b07730f482ab8b8da5104c54420/artifacts
+end_time: 1708625278749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2a78b07730f482ab8b8da5104c54420
+run_name: unruly-grub-87
+run_uuid: e2a78b07730f482ab8b8da5104c54420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625271410
+status: 3
+tags: []
+user_id: TANMOY PAUL

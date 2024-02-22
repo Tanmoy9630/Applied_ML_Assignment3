@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/202a628f54a14017a14a0367441af933/artifacts
+end_time: 1708625236545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 202a628f54a14017a14a0367441af933
+run_name: enchanting-fawn-942
+run_uuid: 202a628f54a14017a14a0367441af933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625232720
+status: 3
+tags: []
+user_id: TANMOY PAUL

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4c041cc3d2bc4488b88760428b6d6ecb/artifacts
+end_time: 1708625302018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c041cc3d2bc4488b88760428b6d6ecb
+run_name: big-fly-921
+run_uuid: 4c041cc3d2bc4488b88760428b6d6ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625291669
+status: 3
+tags: []
+user_id: TANMOY PAUL

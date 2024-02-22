@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bbc0a22ffde244898e8c026746f78b8b/artifacts
+end_time: 1708625271383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbc0a22ffde244898e8c026746f78b8b
+run_name: welcoming-bee-19
+run_uuid: bbc0a22ffde244898e8c026746f78b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625265941
+status: 3
+tags: []
+user_id: TANMOY PAUL

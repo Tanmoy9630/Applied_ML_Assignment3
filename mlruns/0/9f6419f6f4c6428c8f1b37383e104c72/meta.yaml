@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9f6419f6f4c6428c8f1b37383e104c72/artifacts
+end_time: 1708625501983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6419f6f4c6428c8f1b37383e104c72
+run_name: stately-steed-120
+run_uuid: 9f6419f6f4c6428c8f1b37383e104c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708625352594
+status: 3
+tags: []
+user_id: TANMOY PAUL
