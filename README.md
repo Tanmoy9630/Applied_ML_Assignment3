@@ -10,15 +10,16 @@ In score.py, write a function with the following signature that scores a trained
                                           propensity:float
 In test.py, write a unit test function test_score(...) to test the score function.
 You may reload and use the best model saved during experiments in train.ipynb (in joblib/pkl format) for testing the score function.
-You may consider the following points to construct your test cases:
-does the function produce some output without crashing (smoke test)
-are the input/output formats/types as expected (format test)
-is prediction value 0 or 1 
-is propensity score between 0 and 1
-if you put the threshold to 0 does the prediction always become 1
-if you put the threshold to 1 does the prediction always become 0
-on an obvious spam input text is the prediction 1 
-on an obvious non-spam input text is the prediction 0
+You may consider the following points to construct your test cases:                                
+
+does the function produce some output without crashing (smoke test)                             
+are the input/output formats/types as expected (format test)                           
+is prediction value 0 or 1                                                
+is propensity score between 0 and 1                                                         
+if you put the threshold to 0 does the prediction always become 1                                                     
+if you put the threshold to 1 does the prediction always become 0                                    
+on an obvious spam input text is the prediction 1                                
+on an obvious non-spam input text is the prediction 0                                                            
 
 flask serving
 
